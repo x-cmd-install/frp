@@ -1,0 +1,64 @@
+about:
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  license: Apache-2.0
+  homepage: 
+  head: 832df8d
+  archived: false
+  latestVersion: v0.71.0
+  collectedAt: 2026-09-01T04:57:38Z
+timeline:
+  created: 2015-12-21
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-14
+popularity:
+  star: 109129
+  watcher: 1577
+  fork: 15214
+  release: 116
+  contributor: 135
+  pullRequest: 425
+  issue: 4150
+language:
+  Go: 1633814
+  Vue: 230323
+  TypeScript: 66135
+  CSS: 13884
+  Shell: 9924
+  SCSS: 2794
+  Makefile: 2678
+  JavaScript: 1769
+  HTML: 510
+totalLine: 1961831
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 18
+    openPR: 8
+    closedIssue: 10
+    openIssue: 7
+    commit: 14
+  last90d:
+    since: 2026-06-03
+    release: 3
+    mergedPR: 65
+    openPR: 10
+    closedIssue: 39
+    openIssue: 9
+    commit: 62
+  last180d:
+    since: 2026-03-05
+    release: 7
+    mergedPR: 129
+    openPR: 11
+    closedIssue: 82
+    openIssue: 12
+    commit: 99
+  last360d:
+    since: 2025-09-06
+    release: 10
+    mergedPR: 178
+    openPR: 11
+    closedIssue: 219
+    openIssue: 14
+    commit: 168
