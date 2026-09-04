@@ -7,13 +7,13 @@ about:
   head: 832df8d
   archived: false
   latestVersion: v0.71.0
-  collectedAt: 2026-09-04T19:25:42Z
+  collectedAt: 2026-09-04T21:08:01Z
 timeline:
   created: 2015-12-21
   lastCommit: 2026-08-29
   lastRelease: 2026-08-14
 popularity:
-  star: 109204
+  star: 109205
   watcher: 1579
   fork: 15211
   release: 116
@@ -88,6 +88,84 @@ total:
   openIssue: 36
   commit: 1521
 ---
+path: /home/runner/.x-repo/github.com/fatedier/frp
+collectedAt: 2026-09-04T21:08:04Z
+loc:
+  Go:
+    code: 44728
+    comments: 5186
+    blanks: 7555
+    files: 351
+  Json:
+    code: 9117
+    comments: 0
+    blanks: 4
+    files: 9
+  TypeScript:
+    code: 2095
+    comments: 90
+    blanks: 317
+    files: 42
+  Vue:
+    code: 1790
+    comments: 19
+    blanks: 114
+    files: 47
+  Css:
+    code: 468
+    comments: 53
+    blanks: 110
+    files: 4
+  Sh:
+    code: 284
+    comments: 9
+    blanks: 40
+    files: 4
+  Toml:
+    code: 278
+    comments: 273
+    blanks: 97
+    files: 4
+  Ini:
+    code: 236
+    comments: 223
+    blanks: 98
+    files: 2
+  Sass:
+    code: 107
+    comments: 12
+    blanks: 26
+    files: 4
+  Makefile:
+    code: 88
+    comments: 0
+    blanks: 35
+    files: 3
+  JavaScript:
+    code: 70
+    comments: 0
+    blanks: 2
+    files: 2
+  Svg:
+    code: 36
+    comments: 0
+    blanks: 0
+    files: 4
+  Html:
+    code: 23
+    comments: 0
+    blanks: 6
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1117
+    blanks: 612
+    files: 12
+total:
+  code: 66443
+  comments: 7168
+  blanks: 9995
+  files: 490
 ---
 date: "2026-08-24"
 repo:
