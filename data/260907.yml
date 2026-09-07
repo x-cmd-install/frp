@@ -5,15 +5,15 @@ about:
   head: 832df8d
   archived: false
   latestVersion: "v0.71.0"
-  collectedAt: 2026-09-07T04:33:24Z
+  collectedAt: 2026-09-07T19:51:43Z
 timeline:
   created: 2015-12-21
   lastCommit: 2026-08-29
   lastRelease: 2026-08-14
 popularity:
-  star: 109244
+  star: 109259
   watcher: 1580
-  fork: 15210
+  fork: 15214
   release: 116
   contributor: 135
   pullRequest: 1290
@@ -87,7 +87,7 @@ total:
   commit: 1521
 ---
 path: /home/runner/.x-repo/github.com/fatedier/frp
-collectedAt: 2026-09-07T04:33:27Z
+collectedAt: 2026-09-07T19:51:48Z
 loc:
   Go:
     code: 44728
@@ -286,7 +286,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:28+00:00
+  collectedAt: 2026-09-07T19:51:50+00:00
   platform:
     darwin/arm64:
       name:  frp_0.71.0_darwin_arm64.tar.gz
