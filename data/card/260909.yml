@@ -2,28 +2,28 @@ about:
   description: "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
   license: Apache-2.0
   homepage: 
-  head: 832df8d
+  head: d20a232
   archived: false
   latestVersion: "v0.71.0"
   latestRelease: "v0.71.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:38:21Z
+  collectedAt: 2026-09-09T18:45:18Z
 timeline:
   created: 2015-12-21
-  lastCommit: 2026-08-29
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-14
   lastRelease: 2026-08-14
   lastPrerelease: 
 popularity:
-  star: 109285
+  star: 109289
   watcher: 1580
-  fork: 15209
+  fork: 15206
   release: 116
   contributor: 135
-  pullRequest: 1290
+  pullRequest: 1294
   issue: 4148
 language:
-  Go: 1633814
+  Go: 1655197
   Vue: 230323
   TypeScript: 66135
   CSS: 13884
@@ -32,71 +32,71 @@ language:
   Makefile: 2678
   JavaScript: 1769
   HTML: 510
-totalBytes: 1961831
+totalBytes: 1983214
 recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 9
-    openPR: 7
+    mergedPR: 12
+    openPR: 8
     closedIssue: 8
     openIssue: 6
-    commit: 6
+    commit: 9
   last60d:
     since: 2026-07-11
     release: 3
-    mergedPR: 41
-    openPR: 7
+    mergedPR: 44
+    openPR: 8
     closedIssue: 20
     openIssue: 8
-    commit: 41
+    commit: 44
   last90d:
     since: 2026-06-11
     release: 3
-    mergedPR: 63
-    openPR: 9
+    mergedPR: 66
+    openPR: 10
     closedIssue: 33
     openIssue: 9
-    commit: 62
+    commit: 65
   last180d:
     since: 2026-03-13
     release: 7
-    mergedPR: 103
-    openPR: 10
+    mergedPR: 106
+    openPR: 11
     closedIssue: 78
     openIssue: 12
-    commit: 93
+    commit: 96
   last360d:
     since: 2025-09-14
     release: 10
-    mergedPR: 178
-    openPR: 10
+    mergedPR: 181
+    openPR: 11
     closedIssue: 215
     openIssue: 14
-    commit: 168
+    commit: 171
   last720d:
     since: 2024-09-19
     release: 17
-    mergedPR: 237
-    openPR: 10
+    mergedPR: 240
+    openPR: 11
     closedIssue: 620
     openIssue: 16
-    commit: 224
+    commit: 227
 total:
   release: 116
-  mergedPR: 865
-  openPR: 10
+  mergedPR: 868
+  openPR: 11
   closedIssue: 4112
   openIssue: 36
-  commit: 1521
+  commit: 1524
 ---
 path: /home/runner/.x-repo/github.com/fatedier/frp
-collectedAt: 2026-09-09T04:38:26Z
+collectedAt: 2026-09-09T18:45:23Z
 loc:
   Go:
-    code: 44728
-    comments: 5186
-    blanks: 7555
+    code: 45364
+    comments: 5213
+    blanks: 7629
     files: 351
   Json:
     code: 9117
@@ -160,13 +160,13 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 1117
-    blanks: 612
+    comments: 1140
+    blanks: 614
     files: 12
 total:
-  code: 66443
-  comments: 7168
-  blanks: 9995
+  code: 67079
+  comments: 7218
+  blanks: 10071
   files: 490
 ---
 date: "2026-09-07"
