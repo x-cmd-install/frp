@@ -12,6 +12,28 @@ A fast reverse proxy to help you expose a local server behind a NAT or firewall 
 x install frp
 ```
 
+## Code insight
+
+Total: **59,956** lines of code across **453** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 45,364 | 5,213 | 7,629 | 351 |
+| Json | 9,117 | 0 | 4 | 9 |
+| TypeScript | 2,095 | 90 | 317 | 42 |
+| Vue | 1,790 | 19 | 114 | 47 |
+| Css | 468 | 53 | 110 | 4 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+
 ## Source
 
 - **Upstream**: <https://github.com/fatedier/frp>
@@ -22,6 +44,25 @@ x install frp
 - **Latest**: `v0.71.0` (2026-08-14)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 109,320 · **Forks**: 15,206 · **Open issues**: 4,152 · **Contributors**: 135
+
+## Totals (cumulative)
+
+- **Releases**: 116 · **Merged PRs**: 868 · **Open PRs**: 13 · **Closed issues**: 4112 · **Open issues**: 40 · **Commits**: 1524
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 12 | 10 | 7 | 9 | 9 |
+| last60d | 2026-07-12 | 2 | 44 | 10 | 20 | 12 | 44 |
+| 90d | 2026-06-12 | 3 | 66 | 12 | 32 | 13 | 65 |
+| last180d | 2026-03-14 | 7 | 106 | 13 | 77 | 16 | 96 |
+| 360d | 2025-09-15 | 10 | 181 | 13 | 212 | 18 | 171 |
+| last720d | 2024-09-20 | 17 | 240 | 13 | 619 | 20 | 227 |
 
 ## Release assets
 
@@ -46,43 +87,15 @@ x install frp
 | [frp_0.71.0_windows_arm64.zip](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_windows_arm64.zip) | 11.6 MiB | `native/win/arm64` |
 | [frp_sha256_checksums.txt](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_sha256_checksums.txt) | 1.6 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 109,315 · **Forks**: 15,207 · **Open issues**: 4,152 · **Contributors**: 135
+Reported by **49** distros on [repology.org](https://repology.org/project/frp). **8** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 116 · **Merged PRs**: 868 · **Open PRs**: 13 · **Closed issues**: 4112 · **Open issues**: 40 · **Commits**: 1524
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 12 | 10 | 7 | 9 | 9 |
-| 90d | 2026-06-12 | 3 | 66 | 12 | 32 | 13 | 65 |
-| 360d | 2025-09-15 | 10 | 181 | 13 | 212 | 18 | 171 |
-
-## Code size
-
-Total: **59,956** lines of code across **453** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 45,364 | 5,213 | 7,629 | 351 |
-| Json | 9,117 | 0 | 4 | 9 |
-| TypeScript | 2,095 | 90 | 317 | 42 |
-| Vue | 1,790 | 19 | 114 | 47 |
-| Css | 468 | 53 | 110 | 4 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.1 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.71.0` | ✅ latest |
+| Void | `0.65.0` | ⚠️ outdated |
+| Alpine edge | `0.70.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -93,4 +106,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:49Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:08:02Z._
