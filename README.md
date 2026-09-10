@@ -22,23 +22,45 @@ x install frp
 - **Latest**: `v0.71.0` (2026-08-14)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 18
-- **Published**: 2026-08-14T06:36:29Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [frp_0.71.0_android_arm64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_android_arm64.tar.gz) | 12.5 MiB | `native/linux/arm64` |
+| [frp_0.71.0_darwin_amd64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_darwin_amd64.tar.gz) | 13.3 MiB | `native/darwin/x64` |
+| [frp_0.71.0_darwin_arm64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_darwin_arm64.tar.gz) | 12.1 MiB | `native/darwin/arm64` |
+| [frp_0.71.0_freebsd_amd64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_freebsd_amd64.tar.gz) | 13.0 MiB | `native/linux/x64` |
+| [frp_0.71.0_linux_amd64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_amd64.tar.gz) | 13.3 MiB | `native/linux/x64` |
+| [frp_0.71.0_linux_arm.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_arm.tar.gz) | 12.3 MiB | `native/linux/arm` |
+| [frp_0.71.0_linux_arm64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_arm64.tar.gz) | 11.8 MiB | `native/linux/arm64` |
+| [frp_0.71.0_linux_arm_hf.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_arm_hf.tar.gz) | 12.3 MiB | `native/linux/arm` |
+| [frp_0.71.0_linux_loong64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_loong64.tar.gz) | 12.2 MiB | `native/unknown` |
+| [frp_0.71.0_linux_mips.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_mips.tar.gz) | 11.9 MiB | `native/unknown` |
+| [frp_0.71.0_linux_mips64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_mips64.tar.gz) | 11.6 MiB | `native/unknown` |
+| [frp_0.71.0_linux_mips64le.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_mips64le.tar.gz) | 11.4 MiB | `native/unknown` |
+| [frp_0.71.0_linux_mipsle.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_mipsle.tar.gz) | 11.7 MiB | `native/unknown` |
+| [frp_0.71.0_linux_riscv64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_linux_riscv64.tar.gz) | 12.2 MiB | `native/linux/riscv64` |
+| [frp_0.71.0_openbsd_amd64.tar.gz](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_openbsd_amd64.tar.gz) | 13.0 MiB | `native/linux/x64` |
+| [frp_0.71.0_windows_amd64.zip](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_windows_amd64.zip) | 13.3 MiB | `native/win/x64` |
+| [frp_0.71.0_windows_arm64.zip](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_windows_arm64.zip) | 11.6 MiB | `native/win/arm64` |
+| [frp_sha256_checksums.txt](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_sha256_checksums.txt) | 1.6 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 109,301 · **Forks**: 15,208 · **Open issues**: 4,150 · **Contributors**: 135
+- **Stars**: 109,315 · **Forks**: 15,207 · **Open issues**: 4,152 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 868 · **Open PRs**: 11 · **Closed issues**: 4112 · **Open issues**: 38 · **Commits**: 1524
+- **Releases**: 116 · **Merged PRs**: 868 · **Open PRs**: 13 · **Closed issues**: 4112 · **Open issues**: 40 · **Commits**: 1524
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 12 | 8 | 7 | 7 | 9 |
-| 90d | 2026-06-12 | 3 | 66 | 10 | 32 | 11 | 65 |
-| 360d | 2025-09-15 | 10 | 181 | 11 | 212 | 16 | 171 |
+| 30d | 2026-08-11 | 1 | 12 | 10 | 7 | 9 | 9 |
+| 90d | 2026-06-12 | 3 | 66 | 12 | 32 | 13 | 65 |
+| 360d | 2025-09-15 | 10 | 181 | 13 | 212 | 18 | 171 |
 
 ## Code size
 
@@ -67,8 +89,8 @@ Lowest-scoring checks:
 Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `frp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/frp.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/frp.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:49Z._
