@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.71.0"
   latestRelease: "v0.71.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:07:54Z
+  collectedAt: 2026-09-10T23:34:54Z
 timeline:
   created: 2015-12-21
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 
 popularity:
-  star: 109320
+  star: 109322
   watcher: 1580
   fork: 15206
   release: 116
@@ -91,7 +91,7 @@ total:
   commit: 1524
 ---
 path: /home/runner/.x-repo/github.com/fatedier/frp
-collectedAt: 2026-09-10T20:07:57Z
+collectedAt: 2026-09-10T23:34:59Z
 loc:
   Go:
     code: 45364
