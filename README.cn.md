@@ -47,7 +47,7 @@ x install frp
 
 ## 流行度
 
-- **Star**: 109,373 · **Fork**: 15,209 · **开放 issue**: 4,153 · **贡献者**: 135
+- **Star**: 109,402 · **Fork**: 15,210 · **开放 issue**: 4,153 · **贡献者**: 135
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install frp
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 8 | 8 | 6 | 9 | 9 |
-| last60d | 2026-07-15 | 2 | 44 | 9 | 19 | 12 | 44 |
-| 90d | 2026-06-15 | 3 | 66 | 11 | 32 | 13 | 65 |
-| last180d | 2026-03-17 | 7 | 104 | 12 | 74 | 16 | 96 |
-| 360d | 2025-09-18 | 10 | 181 | 12 | 212 | 18 | 171 |
-| last720d | 2024-09-23 | 17 | 240 | 12 | 619 | 20 | 227 |
+| 30d | 2026-08-15 | 0 | 8 | 8 | 6 | 9 | 7 |
+| last60d | 2026-07-16 | 2 | 42 | 9 | 19 | 12 | 40 |
+| 90d | 2026-06-16 | 3 | 66 | 11 | 32 | 13 | 65 |
+| last180d | 2026-03-18 | 7 | 104 | 12 | 73 | 16 | 91 |
+| 360d | 2025-09-19 | 10 | 180 | 12 | 210 | 18 | 170 |
+| last720d | 2024-09-24 | 17 | 240 | 12 | 618 | 20 | 227 |
 
 ## Release 资产
 
@@ -87,16 +87,6 @@ x install frp
 | [frp_0.71.0_windows_arm64.zip](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_0.71.0_windows_arm64.zip) | 11.6 MiB | `native/win/arm64` |
 | [frp_sha256_checksums.txt](https://github.com/fatedier/frp/releases/download/v0.71.0/frp_sha256_checksums.txt) | 1.6 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/frp) 上共有 **49** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**35** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.71.0` | ✅ latest |
-| Void | `0.65.0` | ⚠️ outdated |
-| Alpine edge | `0.70.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 frp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `frp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -106,4 +96,4 @@ frp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:48:05Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:53:38Z._
