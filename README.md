@@ -30,7 +30,7 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 109,402 · **Forks**: 15,210 · **Open issues**: 4,153 · **Contributors**: 135
+- **Stars**: 109,436 · **Forks**: 15,214 · **Open issues**: 4,153 · **Contributors**: 135
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 8 | 8 | 6 | 9 | 7 |
-| last60d | 2026-07-16 | 2 | 42 | 9 | 19 | 12 | 40 |
-| 90d | 2026-06-16 | 3 | 66 | 11 | 32 | 13 | 65 |
-| last180d | 2026-03-18 | 7 | 104 | 12 | 73 | 16 | 91 |
-| 360d | 2025-09-19 | 10 | 180 | 12 | 210 | 18 | 170 |
-| last720d | 2024-09-24 | 17 | 240 | 12 | 618 | 20 | 227 |
+| 30d | 2026-08-16 | 0 | 7 | 8 | 6 | 9 | 7 |
+| last60d | 2026-07-17 | 2 | 42 | 9 | 18 | 12 | 40 |
+| 90d | 2026-06-17 | 3 | 66 | 11 | 32 | 13 | 65 |
+| last180d | 2026-03-19 | 7 | 102 | 12 | 73 | 16 | 91 |
+| 360d | 2025-09-20 | 10 | 180 | 12 | 207 | 18 | 170 |
+| last720d | 2024-09-25 | 17 | 240 | 12 | 616 | 20 | 227 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:53:36Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:55:50Z._
