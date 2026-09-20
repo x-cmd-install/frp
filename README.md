@@ -4,7 +4,7 @@
 
 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-![frp](https://repo.x-cmd.io/frp.svg)
+[![x-cmd/install — frp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/frp.svg)](https://x-cmd.com/install/frp)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 109,491 · **Forks**: 15,215 · **Open issues**: 4,154 · **Contributors**: 135
+- **Stars**: 109,524 · **Forks**: 15,215 · **Open issues**: 4,154 · **Contributors**: 135
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 6 | 8 | 7 | 8 | 7 |
-| last60d | 2026-07-20 | 2 | 41 | 8 | 20 | 9 | 40 |
-| 90d | 2026-06-20 | 3 | 66 | 10 | 35 | 10 | 65 |
-| last180d | 2026-03-22 | 6 | 96 | 11 | 75 | 13 | 91 |
-| 360d | 2025-09-23 | 10 | 178 | 11 | 208 | 15 | 170 |
-| last720d | 2024-09-28 | 17 | 240 | 11 | 615 | 17 | 227 |
+| 30d | 2026-08-21 | 0 | 5 | 8 | 5 | 8 | 7 |
+| last60d | 2026-07-22 | 2 | 34 | 8 | 20 | 9 | 40 |
+| 90d | 2026-06-22 | 3 | 64 | 10 | 34 | 10 | 65 |
+| last180d | 2026-03-24 | 6 | 96 | 10 | 74 | 13 | 91 |
+| 360d | 2025-09-25 | 10 | 175 | 11 | 206 | 15 | 170 |
+| last720d | 2024-09-30 | 17 | 240 | 11 | 614 | 17 | 227 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:42:06Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:00:54Z._
