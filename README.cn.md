@@ -4,7 +4,7 @@
 
 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-[![x-cmd/install — frp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/frp.svg?lang=zh)](https://x-cmd.com/install/frp)
+[![x-cmd/install — frp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/frp.svg?lang=zh)](https://x-cmd.com/install/frp)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install frp
 
 ## 流行度
 
-- **Star**: 109,545 · **Fork**: 15,219 · **开放 issue**: 4,156 · **贡献者**: 135
+- **Star**: 109,575 · **Fork**: 15,222 · **开放 issue**: 4,156 · **贡献者**: 135
 
 ## 累计统计
 
-- **发布数**: 116 · **已合并 PR**: 868 · **开放 PR**: 12 · **已关闭 issue**: 4117 · **开放 issue**: 39 · **提交数**: 1524
+- **发布数**: 116 · **已合并 PR**: 868 · **开放 PR**: 13 · **已关闭 issue**: 4117 · **开放 issue**: 39 · **提交数**: 1524
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 8 | 4 | 10 | 6 |
-| last60d | 2026-07-24 | 1 | 32 | 9 | 18 | 11 | 24 |
-| 90d | 2026-06-24 | 3 | 61 | 11 | 34 | 12 | 57 |
-| last180d | 2026-03-26 | 6 | 95 | 11 | 74 | 15 | 84 |
-| 360d | 2025-09-27 | 9 | 174 | 12 | 205 | 17 | 165 |
-| last720d | 2024-10-02 | 17 | 240 | 12 | 612 | 19 | 227 |
+| 30d | 2026-08-24 | 0 | 5 | 9 | 3 | 10 | 6 |
+| last60d | 2026-07-25 | 1 | 32 | 10 | 18 | 11 | 24 |
+| 90d | 2026-06-25 | 3 | 61 | 12 | 34 | 12 | 57 |
+| last180d | 2026-03-27 | 6 | 95 | 12 | 74 | 15 | 84 |
+| 360d | 2025-09-28 | 9 | 174 | 13 | 204 | 17 | 165 |
+| last720d | 2024-10-03 | 17 | 240 | 13 | 610 | 19 | 227 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ frp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:54:30Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:53:53Z._

@@ -4,7 +4,7 @@
 
 A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-[![x-cmd/install — frp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/frp.svg)](https://x-cmd.com/install/frp)
+[![x-cmd/install — frp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/frp.svg)](https://x-cmd.com/install/frp)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 109,545 · **Forks**: 15,219 · **Open issues**: 4,156 · **Contributors**: 135
+- **Stars**: 109,575 · **Forks**: 15,222 · **Open issues**: 4,156 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 868 · **Open PRs**: 12 · **Closed issues**: 4117 · **Open issues**: 39 · **Commits**: 1524
+- **Releases**: 116 · **Merged PRs**: 868 · **Open PRs**: 13 · **Closed issues**: 4117 · **Open issues**: 39 · **Commits**: 1524
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 8 | 4 | 10 | 6 |
-| last60d | 2026-07-24 | 1 | 32 | 9 | 18 | 11 | 24 |
-| 90d | 2026-06-24 | 3 | 61 | 11 | 34 | 12 | 57 |
-| last180d | 2026-03-26 | 6 | 95 | 11 | 74 | 15 | 84 |
-| 360d | 2025-09-27 | 9 | 174 | 12 | 205 | 17 | 165 |
-| last720d | 2024-10-02 | 17 | 240 | 12 | 612 | 19 | 227 |
+| 30d | 2026-08-24 | 0 | 5 | 9 | 3 | 10 | 6 |
+| last60d | 2026-07-25 | 1 | 32 | 10 | 18 | 11 | 24 |
+| 90d | 2026-06-25 | 3 | 61 | 12 | 34 | 12 | 57 |
+| last180d | 2026-03-27 | 6 | 95 | 12 | 74 | 15 | 84 |
+| 360d | 2025-09-28 | 9 | 174 | 13 | 204 | 17 | 165 |
+| last720d | 2024-10-03 | 17 | 240 | 13 | 610 | 19 | 227 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:54:29Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:53:53Z._
