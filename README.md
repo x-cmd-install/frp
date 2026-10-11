@@ -14,11 +14,11 @@ x install frp
 
 ## Code insight
 
-Total: **61,384** lines of code across **459** files in the top 5 languages.
+Total: **61,566** lines of code across **460** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 46,792 | 5,293 | 7,739 | 357 |
+| Go | 46,974 | 5,310 | 7,756 | 358 |
 | Json | 9,117 | 0 | 4 | 9 |
 | TypeScript | 2,095 | 90 | 317 | 42 |
 | Vue | 1,790 | 19 | 114 | 47 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 109,801 · **Forks**: 15,237 · **Open issues**: 4,159 · **Contributors**: 139
+- **Stars**: 109,823 · **Forks**: 15,236 · **Open issues**: 4,159 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 878 · **Open PRs**: 5 · **Closed issues**: 4127 · **Open issues**: 32 · **Commits**: 1534
+- **Releases**: 116 · **Merged PRs**: 880 · **Open PRs**: 3 · **Closed issues**: 4127 · **Open issues**: 32 · **Commits**: 1536
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 10 | 2 | 5 | 3 | 10 |
-| last60d | 2026-08-11 | 1 | 22 | 3 | 21 | 3 | 21 |
-| 90d | 2026-07-12 | 2 | 54 | 3 | 36 | 4 | 54 |
-| last180d | 2026-04-13 | 6 | 97 | 5 | 77 | 7 | 94 |
-| 360d | 2025-10-15 | 9 | 184 | 5 | 201 | 10 | 175 |
-| last720d | 2024-10-20 | 16 | 242 | 5 | 596 | 12 | 229 |
+| 30d | 2026-09-11 | 0 | 12 | 1 | 4 | 3 | 12 |
+| last60d | 2026-08-12 | 1 | 22 | 2 | 21 | 3 | 23 |
+| 90d | 2026-07-13 | 2 | 56 | 2 | 36 | 4 | 56 |
+| last180d | 2026-04-14 | 5 | 99 | 3 | 77 | 7 | 96 |
+| 360d | 2025-10-16 | 9 | 185 | 3 | 200 | 10 | 177 |
+| last720d | 2024-10-21 | 16 | 244 | 3 | 595 | 12 | 231 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:55:17Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:50:27Z._
