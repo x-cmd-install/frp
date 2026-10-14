@@ -14,11 +14,11 @@ x install frp
 
 ## Code insight
 
-Total: **61,566** lines of code across **460** files in the top 5 languages.
+Total: **61,630** lines of code across **460** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 46,974 | 5,310 | 7,756 | 358 |
+| Go | 47,038 | 5,313 | 7,762 | 358 |
 | Json | 9,117 | 0 | 4 | 9 |
 | TypeScript | 2,095 | 90 | 317 | 42 |
 | Vue | 1,790 | 19 | 114 | 47 |
@@ -26,11 +26,11 @@ Total: **61,566** lines of code across **460** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.71.0` (2026-08-14)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 109,864 · **Forks**: 15,241 · **Open issues**: 4,159 · **Contributors**: 140
+- **Stars**: 109,891 · **Forks**: 15,244 · **Open issues**: 4,160 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 881 · **Open PRs**: 2 · **Closed issues**: 4126 · **Open issues**: 33 · **Commits**: 1537
+- **Releases**: 116 · **Merged PRs**: 882 · **Open PRs**: 2 · **Closed issues**: 4126 · **Open issues**: 34 · **Commits**: 1538
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 13 | 1 | 4 | 4 | 13 |
-| last60d | 2026-08-14 | 1 | 21 | 2 | 19 | 4 | 20 |
-| 90d | 2026-07-15 | 2 | 57 | 2 | 34 | 5 | 55 |
-| last180d | 2026-04-16 | 5 | 100 | 2 | 76 | 8 | 95 |
-| 360d | 2025-10-18 | 9 | 186 | 2 | 198 | 11 | 177 |
-| last720d | 2024-10-23 | 16 | 244 | 2 | 592 | 13 | 231 |
+| 30d | 2026-09-14 | 0 | 14 | 1 | 4 | 5 | 14 |
+| last60d | 2026-08-15 | 0 | 22 | 2 | 19 | 5 | 21 |
+| 90d | 2026-07-16 | 2 | 56 | 2 | 34 | 6 | 56 |
+| last180d | 2026-04-17 | 5 | 101 | 2 | 76 | 8 | 96 |
+| 360d | 2025-10-19 | 9 | 187 | 2 | 198 | 12 | 178 |
+| last720d | 2024-10-24 | 16 | 245 | 2 | 588 | 14 | 232 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:51:07Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:56:54Z._
