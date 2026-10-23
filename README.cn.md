@@ -47,22 +47,22 @@ x install frp
 
 ## 流行度
 
-- **Star**: 110,060 · **Fork**: 15,251 · **开放 issue**: 4,164 · **贡献者**: 141
+- **Star**: 110,082 · **Fork**: 15,249 · **开放 issue**: 4,166 · **贡献者**: 141
 
 ## 累计统计
 
-- **发布数**: 117 · **已合并 PR**: 895 · **开放 PR**: 1 · **已关闭 issue**: 4131 · **开放 issue**: 33 · **提交数**: 1550
+- **发布数**: 117 · **已合并 PR**: 895 · **开放 PR**: 1 · **已关闭 issue**: 4131 · **开放 issue**: 35 · **提交数**: 1550
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 25 | 0 | 6 | 3 | 26 |
-| last60d | 2026-08-23 | 1 | 32 | 1 | 19 | 4 | 33 |
-| 90d | 2026-07-24 | 2 | 59 | 1 | 33 | 5 | 57 |
-| last180d | 2026-04-25 | 6 | 114 | 1 | 79 | 6 | 104 |
-| 360d | 2025-10-27 | 10 | 200 | 1 | 197 | 11 | 185 |
-| last720d | 2024-11-01 | 17 | 257 | 1 | 584 | 13 | 243 |
+| 30d | 2026-09-23 | 1 | 25 | 0 | 5 | 5 | 26 |
+| last60d | 2026-08-24 | 1 | 32 | 1 | 18 | 6 | 33 |
+| 90d | 2026-07-25 | 2 | 59 | 1 | 33 | 7 | 57 |
+| last180d | 2026-04-26 | 6 | 111 | 1 | 78 | 8 | 104 |
+| 360d | 2025-10-28 | 10 | 195 | 1 | 196 | 13 | 185 |
+| last720d | 2024-11-02 | 17 | 257 | 1 | 583 | 15 | 243 |
 
 ## Release 资产
 
@@ -87,6 +87,16 @@ x install frp
 | [frp_0.71.1_windows_arm64.zip](https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_arm64.zip) | 11.8 MiB | `native/win/arm64` |
 | [frp_sha256_checksums.txt](https://github.com/fatedier/frp/releases/download/v0.71.1/frp_sha256_checksums.txt) | 1.6 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/frp) 上共有 **50** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**36** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.71.1` | ✅ latest |
+| Void | `0.65.0` | ⚠️ outdated |
+| Alpine edge | `0.71.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 frp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `frp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -96,4 +106,4 @@ frp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:38:30Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:56:43Z._

@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 110,060 · **Forks**: 15,251 · **Open issues**: 4,164 · **Contributors**: 141
+- **Stars**: 110,082 · **Forks**: 15,249 · **Open issues**: 4,166 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 895 · **Open PRs**: 1 · **Closed issues**: 4131 · **Open issues**: 33 · **Commits**: 1550
+- **Releases**: 117 · **Merged PRs**: 895 · **Open PRs**: 1 · **Closed issues**: 4131 · **Open issues**: 35 · **Commits**: 1550
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 25 | 0 | 6 | 3 | 26 |
-| last60d | 2026-08-23 | 1 | 32 | 1 | 19 | 4 | 33 |
-| 90d | 2026-07-24 | 2 | 59 | 1 | 33 | 5 | 57 |
-| last180d | 2026-04-25 | 6 | 114 | 1 | 79 | 6 | 104 |
-| 360d | 2025-10-27 | 10 | 200 | 1 | 197 | 11 | 185 |
-| last720d | 2024-11-01 | 17 | 257 | 1 | 584 | 13 | 243 |
+| 30d | 2026-09-23 | 1 | 25 | 0 | 5 | 5 | 26 |
+| last60d | 2026-08-24 | 1 | 32 | 1 | 18 | 6 | 33 |
+| 90d | 2026-07-25 | 2 | 59 | 1 | 33 | 7 | 57 |
+| last180d | 2026-04-26 | 6 | 111 | 1 | 78 | 8 | 104 |
+| 360d | 2025-10-28 | 10 | 195 | 1 | 196 | 13 | 185 |
+| last720d | 2024-11-02 | 17 | 257 | 1 | 583 | 15 | 243 |
 
 ## Release assets
 
@@ -87,6 +87,16 @@ Lowest-scoring checks:
 | [frp_0.71.1_windows_arm64.zip](https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_arm64.zip) | 11.8 MiB | `native/win/arm64` |
 | [frp_sha256_checksums.txt](https://github.com/fatedier/frp/releases/download/v0.71.1/frp_sha256_checksums.txt) | 1.6 KiB | `other` |
 
+## Distribution status
+
+Reported by **50** distros on [repology.org](https://repology.org/project/frp). **7** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.71.1` | ✅ latest |
+| Void | `0.65.0` | ⚠️ outdated |
+| Alpine edge | `0.71.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `frp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +106,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:38:29Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:56:42Z._
