@@ -14,11 +14,11 @@ x install frp
 
 ## Code insight
 
-Total: **64,643** lines of code across **479** files in the top 5 languages.
+Total: **64,733** lines of code across **481** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 50,045 | 5,739 | 8,019 | 377 |
+| Go | 50,135 | 5,768 | 8,031 | 379 |
 | Json | 9,117 | 0 | 4 | 9 |
 | TypeScript | 2,095 | 90 | 317 | 42 |
 | Vue | 1,790 | 19 | 114 | 47 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.71.1` (2026-10-14)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-23
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 110,082 · **Forks**: 15,249 · **Open issues**: 4,166 · **Contributors**: 141
+- **Stars**: 110,101 · **Forks**: 15,255 · **Open issues**: 4,163 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 895 · **Open PRs**: 1 · **Closed issues**: 4131 · **Open issues**: 35 · **Commits**: 1550
+- **Releases**: 117 · **Merged PRs**: 897 · **Open PRs**: 1 · **Closed issues**: 4130 · **Open issues**: 33 · **Commits**: 1552
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 25 | 0 | 5 | 5 | 26 |
-| last60d | 2026-08-24 | 1 | 32 | 1 | 18 | 6 | 33 |
-| 90d | 2026-07-25 | 2 | 59 | 1 | 33 | 7 | 57 |
-| last180d | 2026-04-26 | 6 | 111 | 1 | 78 | 8 | 104 |
-| 360d | 2025-10-28 | 10 | 195 | 1 | 196 | 13 | 185 |
-| last720d | 2024-11-02 | 17 | 257 | 1 | 583 | 15 | 243 |
+| 30d | 2026-09-24 | 1 | 27 | 0 | 7 | 3 | 28 |
+| last60d | 2026-08-25 | 1 | 34 | 1 | 20 | 4 | 35 |
+| 90d | 2026-07-26 | 2 | 61 | 1 | 35 | 5 | 59 |
+| last180d | 2026-04-27 | 6 | 112 | 1 | 80 | 6 | 106 |
+| 360d | 2025-10-29 | 10 | 197 | 1 | 198 | 11 | 187 |
+| last720d | 2024-11-03 | 17 | 259 | 1 | 584 | 13 | 245 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:56:42Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:40:32Z._
