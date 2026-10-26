@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13252573,
       "digest": "sha256:9dce8c10e66bdf1a0cff19bf2cd1a3f4f7389fccee8ca0cda57a7a7c0d87af3a",
-      "download_count": 814,
+      "download_count": 894,
       "created_at": "2026-10-14T09:52:40Z",
       "updated_at": "2026-10-14T09:52:41Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_android_arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14185816,
       "digest": "sha256:8acb59b6fb998cc8d209d1373d90bf70fa5ec3efeb4dfbc7bda6ce3abd78cb45",
-      "download_count": 1169,
+      "download_count": 1258,
       "created_at": "2026-10-14T09:52:39Z",
       "updated_at": "2026-10-14T09:52:39Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12867210,
       "digest": "sha256:d15d0324b99e14619c9aa46e37f6db588c06a09be4bc6f7948890b6b61077842",
-      "download_count": 2489,
+      "download_count": 2793,
       "created_at": "2026-10-14T09:52:41Z",
       "updated_at": "2026-10-14T09:52:41Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13816134,
       "digest": "sha256:c45ced953a4534f3a40e59fbfa476ec8b231275bcec939e2a40345a1300577ff",
-      "download_count": 264,
+      "download_count": 285,
       "created_at": "2026-10-14T09:52:42Z",
       "updated_at": "2026-10-14T09:52:43Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_freebsd_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14140587,
       "digest": "sha256:1d9875210972a5d1a62b2dc4c48df45ab0af05d3ca1b5e494a014428259df803",
-      "download_count": 23455,
+      "download_count": 26981,
       "created_at": "2026-10-14T09:52:41Z",
       "updated_at": "2026-10-14T09:52:42Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13148854,
       "digest": "sha256:8eb6fe66a3b36db24ca0de44fb01e6742d0ff60e30f462c9662f41813bbf4376",
-      "download_count": 522,
+      "download_count": 571,
       "created_at": "2026-10-14T09:52:39Z",
       "updated_at": "2026-10-14T09:52:40Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_arm.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 12539075,
       "digest": "sha256:8edf590b0c396fa42f9c147121a76af83cfc2002b08f5aef0ea1008c43482019",
-      "download_count": 3164,
+      "download_count": 3507,
       "created_at": "2026-10-14T09:52:41Z",
       "updated_at": "2026-10-14T09:52:42Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 13113231,
       "digest": "sha256:a40116f15f2a05b7001f985f1f1ccb2570e2aa41329b06de76a82e71495786db",
-      "download_count": 288,
+      "download_count": 315,
       "created_at": "2026-10-14T09:52:42Z",
       "updated_at": "2026-10-14T09:52:43Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_arm_hf.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13148447,
       "digest": "sha256:1e2fb9e17112dbc3c3d9b7ca36a23c1a97e277d6934c7a2d06faf14788e3f40a",
-      "download_count": 191,
+      "download_count": 207,
       "created_at": "2026-10-14T09:52:40Z",
       "updated_at": "2026-10-14T09:52:40Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_loong64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12780957,
       "digest": "sha256:cb13debcd3df1b53efb229dbd0507f1f594c481ab4a2a89c6254e7df23141b5d",
-      "download_count": 203,
+      "download_count": 223,
       "created_at": "2026-10-14T09:52:40Z",
       "updated_at": "2026-10-14T09:52:41Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mips.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12396492,
       "digest": "sha256:277089dc9f2b5f688ced1117002eef8ce7cb508c225c7981423db772af97c7ec",
-      "download_count": 158,
+      "download_count": 165,
       "created_at": "2026-10-14T09:52:39Z",
       "updated_at": "2026-10-14T09:52:39Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mips64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12154037,
       "digest": "sha256:5cbdcc65fab851ab8f340df7b4539c2b2dbe74a365e41af2cb380712f07bea94",
-      "download_count": 161,
+      "download_count": 168,
       "created_at": "2026-10-14T09:52:42Z",
       "updated_at": "2026-10-14T09:52:42Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mips64le.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12563764,
       "digest": "sha256:2eaa97e6b42a0cbd672b079b59d5682bb64a766f9a9564d7c4bbbd3ca79ec694",
-      "download_count": 3261,
+      "download_count": 3518,
       "created_at": "2026-10-14T09:52:40Z",
       "updated_at": "2026-10-14T09:52:41Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_mipsle.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 12927784,
       "digest": "sha256:b3ade396d55d11bc1c3ceb27b22bfb6e80f3ffb5932cef29393a3d3273bab070",
-      "download_count": 159,
+      "download_count": 168,
       "created_at": "2026-10-14T09:52:42Z",
       "updated_at": "2026-10-14T09:52:43Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_linux_riscv64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 13782952,
       "digest": "sha256:d4c5c049bc901b910bbb42626bfbf53c2c1a65f7ff503e21e8c9190a286d3a6c",
-      "download_count": 182,
+      "download_count": 191,
       "created_at": "2026-10-14T09:52:43Z",
       "updated_at": "2026-10-14T09:52:44Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_openbsd_amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 14152383,
       "digest": "sha256:b90074b2b6a1d792a7a40f085ac6d276bcab2d1bc60201f8a86ca53ce65ce821",
-      "download_count": 14837,
+      "download_count": 16399,
       "created_at": "2026-10-14T09:52:43Z",
       "updated_at": "2026-10-14T09:52:44Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_amd64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 12387794,
       "digest": "sha256:6c25afb4058f7708937db7064836fec593e941de0e6c2c255982335a9b16d370",
-      "download_count": 637,
+      "download_count": 704,
       "created_at": "2026-10-14T09:52:39Z",
       "updated_at": "2026-10-14T09:52:39Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_0.71.1_windows_arm64.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1645,
       "digest": "sha256:1f501ae59dffd4db6039d33dacbb23e2625fe44d188fe1ce456466e3386918ff",
-      "download_count": 3491,
+      "download_count": 3842,
       "created_at": "2026-10-14T09:52:39Z",
       "updated_at": "2026-10-14T09:52:39Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.71.1/frp_sha256_checksums.txt"
