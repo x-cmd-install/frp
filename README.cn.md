@@ -26,11 +26,11 @@ x install frp
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
@@ -47,22 +47,22 @@ x install frp
 
 ## 流行度
 
-- **Star**: 110,133 · **Fork**: 15,257 · **开放 issue**: 4,164 · **贡献者**: 141
+- **Star**: 110,168 · **Fork**: 15,264 · **开放 issue**: 4,167 · **贡献者**: 141
 
 ## 累计统计
 
-- **发布数**: 117 · **已合并 PR**: 897 · **开放 PR**: 1 · **已关闭 issue**: 4132 · **开放 issue**: 32 · **提交数**: 1552
+- **发布数**: 117 · **已合并 PR**: 897 · **开放 PR**: 1 · **已关闭 issue**: 4135 · **开放 issue**: 32 · **提交数**: 1552
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 26 | 0 | 7 | 3 | 28 |
-| last60d | 2026-08-27 | 1 | 33 | 1 | 21 | 3 | 31 |
-| 90d | 2026-07-28 | 2 | 54 | 1 | 37 | 4 | 48 |
-| last180d | 2026-04-29 | 6 | 112 | 1 | 81 | 5 | 106 |
-| 360d | 2025-10-31 | 10 | 197 | 1 | 197 | 10 | 187 |
-| last720d | 2024-11-05 | 17 | 259 | 1 | 584 | 12 | 245 |
+| 30d | 2026-09-27 | 1 | 26 | 0 | 7 | 3 | 28 |
+| last60d | 2026-08-28 | 1 | 33 | 1 | 21 | 3 | 31 |
+| 90d | 2026-07-29 | 2 | 53 | 1 | 36 | 4 | 48 |
+| last180d | 2026-04-30 | 6 | 112 | 1 | 81 | 5 | 106 |
+| 360d | 2025-11-01 | 10 | 197 | 1 | 195 | 10 | 187 |
+| last720d | 2024-11-06 | 17 | 259 | 1 | 584 | 12 | 245 |
 
 ## Release 资产
 
@@ -106,4 +106,4 @@ frp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:44:06Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:02:23Z._
