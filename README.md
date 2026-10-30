@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 110,266 · **Forks**: 15,280 · **Open issues**: 4,167 · **Contributors**: 141
+- **Stars**: 110,312 · **Forks**: 15,285 · **Open issues**: 4,167 · **Contributors**: 141
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 24 | 0 | 7 | 3 | 28 |
-| last60d | 2026-08-30 | 1 | 32 | 1 | 19 | 3 | 31 |
-| 90d | 2026-07-31 | 2 | 50 | 1 | 35 | 4 | 48 |
-| last180d | 2026-05-02 | 6 | 112 | 1 | 79 | 5 | 106 |
-| 360d | 2025-11-03 | 10 | 197 | 1 | 192 | 10 | 187 |
-| last720d | 2024-11-08 | 17 | 258 | 1 | 583 | 12 | 244 |
+| 30d | 2026-09-30 | 1 | 24 | 0 | 7 | 3 | 28 |
+| last60d | 2026-08-31 | 1 | 32 | 1 | 19 | 3 | 31 |
+| 90d | 2026-08-01 | 2 | 50 | 1 | 35 | 4 | 48 |
+| last180d | 2026-05-03 | 6 | 112 | 1 | 79 | 5 | 106 |
+| 360d | 2025-11-04 | 10 | 197 | 1 | 191 | 10 | 187 |
+| last720d | 2024-11-09 | 17 | 258 | 1 | 582 | 12 | 244 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:42:59Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:46:23Z._
