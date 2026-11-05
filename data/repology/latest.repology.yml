@@ -1,91 +1,102 @@
-- repo: void_x86_64
-  subrepo: x86_64
+- repo: nix_unstable
   srcname: frp
-  binname: frp
-  visiblename: frp
-  version: 0.65.0
-  origversion: 0.65.0_3
-  status: outdated
-  summary: Fast reverse proxy
-  maintainers:
-    - gith@cron.world
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: frp
-  binname: frp-openrc
-  visiblename: frp-openrc
-  version: 0.44.0
-  origversion: 0.44.0-r7
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: frp
-  binname: frp
-  visiblename: frp
-  version: 0.44.0
-  origversion: 0.44.0-r7
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: frp
-  binname: frp
-  visiblename: frp
-  version: 0.48.0
-  origversion: 0.48.0-r6
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: frp
-  binname: frp-openrc
-  visiblename: frp-openrc
-  version: 0.48.0
-  origversion: 0.48.0-r6
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: frp
-  binname: frp
-  visiblename: frp
-  version: 0.52.3
-  origversion: 0.52.3-r3
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: termux
-  srcname: frp
-  binname: frp
   visiblename: frp
   version: 0.71.1
   origversion: null
-  status: newest
-  summary: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
+  status: outdated
+  summary: Fast reverse proxy
   maintainers:
-    - admin@utermux.dev
+    - epireyn@github
+  licenses:
+    - Apache-2.0
+- repo: openpkg_current
+  srcname: frp
+  visiblename: frp
+  version: 0.65.0.20250925
+  origversion: null
+  status: outdated
+  summary: Fast Reverse Proxy
+  licenses:
+    - Apache
+  categories:
+    - Networking
+- repo: alpine_3_17
+  subrepo: community
+  srcname: frp
+  binname: frp-openrc
+  visiblename: frp-openrc
+  version: 0.44.0
+  origversion: 0.44.0-r7
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: openwrt_23_05_x86_64
+  subrepo: packages
+  srcname: feeds/packages/net/frp
+  binname: frpc
+  visiblename: frpc
+  version: 0.51.3
+  origversion: 0.51.3-1
+  status: outdated
+  maintainers:
+    - yurichard3839@gmail.com
+  categories:
+    - net
+- repo: alpine_3_17
+  subrepo: community
+  srcname: frp
+  binname: frp
+  visiblename: frp
+  version: 0.44.0
+  origversion: 0.44.0-r7
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: frp
+  binname: frp
+  visiblename: frp
+  version: 0.48.0
+  origversion: 0.48.0-r6
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: frp
+  binname: frp-openrc
+  visiblename: frp-openrc
+  version: 0.48.0
+  origversion: 0.48.0-r6
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: frp
+  binname: frp
+  visiblename: frp
+  version: 0.52.3
+  origversion: 0.52.3-r3
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_19
   subrepo: community
   srcname: frp
@@ -151,18 +162,6 @@
     - wenermail@gmail.com
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: frp-bin
-  binname: frpc-bin
-  visiblename: frpc-bin
-  version: 0.68.1
-  origversion: 0.68.1-1
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Client)
-  maintainers:
-    - firstairbender@aur
-  licenses:
-    - Apache
 - repo: alpine_3_22
   subrepo: community
   srcname: frp
@@ -283,8 +282,8 @@
   srcname: frp
   binname: frpc
   visiblename: frpc
-  version: 0.71.1
-  origversion: 0.71.1-1
+  version: 0.72.0
+  origversion: 0.72.0-1
   status: newest
   summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
   maintainers:
@@ -296,8 +295,8 @@
   srcname: frp
   binname: frps
   visiblename: frps
-  version: 0.71.1
-  origversion: 0.71.1-1
+  version: 0.72.0
+  origversion: 0.72.0-1
   status: newest
   summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
   maintainers:
@@ -305,6 +304,18 @@
     - lilac@aur
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: frp-bin
+  binname: frpc-bin
+  visiblename: frpc-bin
+  version: 0.68.1
+  origversion: 0.68.1-1
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Client)
+  maintainers:
+    - firstairbender@aur
+  licenses:
+    - Apache
 - repo: aur
   srcname: frp-bin
   binname: frps-bin
@@ -322,8 +333,21 @@
   visiblename: frp
   version: 0.71.1
   origversion: null
-  status: newest
+  status: outdated
   summary: A fast reverse proxy
+  licenses:
+    - Apache-2.0
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: frp
+  binname: frp
+  visiblename: frp
+  version: 0.65.0
+  origversion: 0.65.0_3
+  status: outdated
+  summary: Fast reverse proxy
+  maintainers:
+    - gith@cron.world
   licenses:
     - Apache-2.0
 - repo: freebsd
@@ -332,7 +356,7 @@
   visiblename: net/frp
   version: 0.71.1
   origversion: 0.71.1_1
-  status: newest
+  status: outdated
   summary: Reverse proxy to expose local server behind NAT/firewall to Internet
   maintainers:
     - yuri@freebsd.org
@@ -464,15 +488,6 @@
     - MPL-2.0
   categories:
     - net-vpn
-- repo: scoop
-  subrepo: main
-  binname: frp
-  visiblename: frp
-  version: 0.71.1
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
 - repo: liguros_develop
   srcname: net-vpn/frp
   visiblename: net-vpn/frp
@@ -582,40 +597,6 @@
     - fallback-mnt-nix@repology
   licenses:
     - Apache-2.0
-- repo: nix_unstable
-  srcname: frp
-  visiblename: frp
-  version: 0.71.1
-  origversion: null
-  status: newest
-  summary: Fast reverse proxy
-  maintainers:
-    - epireyn@github
-  licenses:
-    - Apache-2.0
-- repo: openpkg_current
-  srcname: frp
-  visiblename: frp
-  version: 0.65.0.20250925
-  origversion: null
-  status: outdated
-  summary: Fast Reverse Proxy
-  licenses:
-    - Apache
-  categories:
-    - Networking
-- repo: openwrt_23_05_x86_64
-  subrepo: packages
-  srcname: feeds/packages/net/frp
-  binname: frpc
-  visiblename: frpc
-  version: 0.51.3
-  origversion: 0.51.3-1
-  status: outdated
-  maintainers:
-    - yurichard3839@gmail.com
-  categories:
-    - net
 - repo: openwrt_23_05_x86_64
   subrepo: packages
   srcname: feeds/packages/net/frp
@@ -666,3 +647,22 @@
     - Apache 2.0
   categories:
     - Unspecified
+- repo: scoop
+  subrepo: main
+  binname: frp
+  visiblename: frp
+  version: 0.72.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: termux
+  srcname: frp
+  binname: frp
+  visiblename: frp
+  version: 0.72.0
+  origversion: null
+  status: newest
+  summary: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
+  maintainers:
+    - admin@utermux.dev
