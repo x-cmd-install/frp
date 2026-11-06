@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.72.0` (2026-11-04)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 110,448 · **Forks**: 15,303 · **Open issues**: 4,174 · **Contributors**: 141
+- **Stars**: 110,462 · **Forks**: 15,305 · **Open issues**: 4,174 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 909 · **Open PRs**: 0 · **Closed issues**: 4140 · **Open issues**: 34 · **Commits**: 1563
+- **Releases**: 118 · **Merged PRs**: 910 · **Open PRs**: 0 · **Closed issues**: 4140 · **Open issues**: 34 · **Commits**: 1564
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 34 | 0 | 10 | 5 | 36 |
-| last60d | 2026-09-06 | 2 | 44 | 0 | 23 | 5 | 42 |
-| 90d | 2026-08-07 | 3 | 59 | 0 | 37 | 5 | 50 |
-| last180d | 2026-05-09 | 7 | 122 | 0 | 84 | 7 | 115 |
-| 360d | 2025-11-10 | 11 | 207 | 0 | 194 | 12 | 197 |
-| last720d | 2024-11-15 | 18 | 270 | 0 | 577 | 14 | 255 |
+| 30d | 2026-10-07 | 2 | 34 | 0 | 9 | 5 | 37 |
+| last60d | 2026-09-07 | 2 | 45 | 0 | 23 | 5 | 43 |
+| 90d | 2026-08-08 | 3 | 60 | 0 | 36 | 5 | 51 |
+| last180d | 2026-05-10 | 7 | 123 | 0 | 84 | 7 | 116 |
+| 360d | 2025-11-11 | 11 | 208 | 0 | 194 | 12 | 198 |
+| last720d | 2024-11-16 | 18 | 271 | 0 | 576 | 14 | 256 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/frp). **4** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **50** distros on [repology.org](https://repology.org/project/frp). **5** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:38:12Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:39:32Z._
