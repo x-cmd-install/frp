@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 110,462 · **Forks**: 15,305 · **Open issues**: 4,174 · **Contributors**: 141
+- **Stars**: 110,468 · **Forks**: 15,305 · **Open issues**: 4,174 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 910 · **Open PRs**: 0 · **Closed issues**: 4140 · **Open issues**: 34 · **Commits**: 1564
+- **Releases**: 118 · **Merged PRs**: 909 · **Open PRs**: 1 · **Closed issues**: 4139 · **Open issues**: 35 · **Commits**: 1564
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 34 | 0 | 9 | 5 | 37 |
-| last60d | 2026-09-07 | 2 | 45 | 0 | 23 | 5 | 43 |
-| 90d | 2026-08-08 | 3 | 60 | 0 | 36 | 5 | 51 |
-| last180d | 2026-05-10 | 7 | 123 | 0 | 84 | 7 | 116 |
-| 360d | 2025-11-11 | 11 | 208 | 0 | 194 | 12 | 198 |
-| last720d | 2024-11-16 | 18 | 271 | 0 | 576 | 14 | 256 |
+| 30d | 2026-10-08 | 2 | 33 | 1 | 9 | 6 | 37 |
+| last60d | 2026-09-08 | 2 | 45 | 1 | 22 | 6 | 43 |
+| 90d | 2026-08-09 | 3 | 54 | 1 | 36 | 6 | 51 |
+| last180d | 2026-05-11 | 7 | 123 | 1 | 83 | 8 | 116 |
+| 360d | 2025-11-12 | 11 | 208 | 1 | 193 | 13 | 198 |
+| last720d | 2024-11-17 | 18 | 271 | 1 | 576 | 15 | 256 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **50** distros on [repology.org](https://repology.org/project/frp). **5** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **49** distros on [repology.org](https://repology.org/project/frp). **5** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:39:32Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:55:17Z._
