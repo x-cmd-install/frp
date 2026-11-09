@@ -26,11 +26,11 @@ Total: **65,212** lines of code across **485** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 110,470 · **Forks**: 15,302 · **Open issues**: 4,174 · **Contributors**: 140
+- **Stars**: 110,487 · **Forks**: 15,305 · **Open issues**: 4,174 · **Contributors**: 140
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 30 | 1 | 9 | 6 | 37 |
-| last60d | 2026-09-09 | 2 | 42 | 1 | 21 | 6 | 43 |
-| 90d | 2026-08-10 | 3 | 54 | 1 | 35 | 6 | 51 |
-| last180d | 2026-05-12 | 7 | 122 | 1 | 81 | 8 | 116 |
-| 360d | 2025-11-13 | 11 | 208 | 1 | 190 | 13 | 198 |
-| last720d | 2024-11-18 | 18 | 271 | 1 | 575 | 15 | 256 |
+| 30d | 2026-10-10 | 2 | 29 | 1 | 9 | 6 | 24 |
+| last60d | 2026-09-10 | 2 | 42 | 1 | 17 | 6 | 40 |
+| 90d | 2026-08-11 | 3 | 54 | 1 | 33 | 6 | 49 |
+| last180d | 2026-05-13 | 7 | 122 | 1 | 81 | 8 | 115 |
+| 360d | 2025-11-14 | 11 | 208 | 1 | 187 | 13 | 195 |
+| last720d | 2024-11-19 | 18 | 271 | 1 | 572 | 15 | 256 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **49** distros on [repology.org](https://repology.org/project/frp). **6** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+Reported by **49** distros on [repology.org](https://repology.org/project/frp). **7** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for frp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:58:42Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:15:04Z._
