@@ -1,3 +1,78 @@
+- repo: nix_stable_24_05
+  srcname: frp
+  visiblename: frp
+  version: 0.57.0
+  origversion: null
+  status: outdated
+  summary: Fast reverse proxy
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: frp-bin
+  binname: frpc-bin
+  visiblename: frpc-bin
+  version: 0.68.1
+  origversion: 0.68.1-1
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Client)
+  maintainers:
+    - firstairbender@aur
+  licenses:
+    - Apache
+- repo: alpine_3_17
+  subrepo: community
+  srcname: frp
+  binname: frp
+  visiblename: frp
+  version: 0.44.0
+  origversion: 0.44.0-r7
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: frp
+  binname: frp-openrc
+  visiblename: frp-openrc
+  version: 0.44.0
+  origversion: 0.44.0-r7
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: frp
+  binname: frp
+  visiblename: frp
+  version: 0.48.0
+  origversion: 0.48.0-r6
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: frp
+  binname: frp-openrc
+  visiblename: frp-openrc
+  version: 0.48.0
+  origversion: 0.48.0-r6
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_19
   subrepo: community
   srcname: frp
@@ -7,58 +82,6 @@
   origversion: 0.52.3-r3
   status: outdated
   summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: frp
-  binname: frp-openrc
-  visiblename: frp-openrc
-  version: 0.44.0
-  origversion: 0.44.0-r7
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: frp
-  binname: frp
-  visiblename: frp
-  version: 0.44.0
-  origversion: 0.44.0-r7
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: frp
-  binname: frp
-  visiblename: frp
-  version: 0.48.0
-  origversion: 0.48.0-r6
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: frp
-  binname: frp-openrc
-  visiblename: frp-openrc
-  version: 0.48.0
-  origversion: 0.48.0-r6
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
   maintainers:
     - wenermail@gmail.com
   licenses:
@@ -130,12 +153,12 @@
     - Apache-2.0
 - repo: aur
   srcname: frp-bin
-  binname: frpc-bin
-  visiblename: frpc-bin
+  binname: frps-bin
+  visiblename: frps-bin
   version: 0.68.1
   origversion: 0.68.1-1
   status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Client)
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Server)
   maintainers:
     - firstairbender@aur
   licenses:
@@ -177,6 +200,17 @@
   summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
   maintainers:
     - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: frp
+  visiblename: frp
+  version: 0.61.0
+  origversion: null
+  status: outdated
+  summary: Fast reverse proxy
+  maintainers:
+    - brightone@protonmail.com
   licenses:
     - Apache-2.0
 - repo: alpine_3_23
@@ -282,18 +316,6 @@
     - lilac@aur
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: frp-bin
-  binname: frps-bin
-  visiblename: frps-bin
-  version: 0.68.1
-  origversion: 0.68.1-1
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Server)
-  maintainers:
-    - firstairbender@aur
-  licenses:
-    - Apache
 - repo: chromebrew
   srcname: frp
   visiblename: frp
@@ -308,7 +330,7 @@
   binname: frp
   visiblename: net/frp
   version: 0.72.0
-  origversion: null
+  origversion: 0.72.0_1
   status: newest
   summary: Reverse proxy to expose local server behind NAT/firewall to Internet
   maintainers:
@@ -441,15 +463,6 @@
     - MPL-2.0
   categories:
     - net-vpn
-- repo: scoop
-  subrepo: main
-  binname: frp
-  visiblename: frp
-  version: 0.72.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
 - repo: liguros_develop
   srcname: net-vpn/frp
   visiblename: net-vpn/frp
@@ -504,28 +517,6 @@
     - MPL-2.0
   categories:
     - net-vpn
-- repo: nix_stable_24_05
-  srcname: frp
-  visiblename: frp
-  version: 0.57.0
-  origversion: null
-  status: outdated
-  summary: Fast reverse proxy
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: frp
-  visiblename: frp
-  version: 0.61.0
-  origversion: null
-  status: outdated
-  summary: Fast reverse proxy
-  maintainers:
-    - brightone@protonmail.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: frp
   visiblename: frp
@@ -632,6 +623,15 @@
     - Apache 2.0
   categories:
     - Unspecified
+- repo: scoop
+  subrepo: main
+  binname: frp
+  visiblename: frp
+  version: 0.72.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
 - repo: termux
   srcname: frp
   binname: frp
