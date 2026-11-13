@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13655047,
       "digest": "sha256:096ef4ab7c89ce8893713eaad644fa1b6462ac97d2ae97b5a47890e0780ba3d4",
-      "download_count": 582,
+      "download_count": 636,
       "created_at": "2026-11-04T17:18:56Z",
       "updated_at": "2026-11-04T17:18:57Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_android_arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14560907,
       "digest": "sha256:60439dc6bf794c4182a1a4cac147d642f839d55201607208979eb23aecd09be9",
-      "download_count": 859,
+      "download_count": 965,
       "created_at": "2026-11-04T17:18:59Z",
       "updated_at": "2026-11-04T17:19:00Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13217943,
       "digest": "sha256:6e8576c5b6b9914a86850f6ff4fb81c5a09e706f91f70f64d5f398558bdc9db8",
-      "download_count": 1868,
+      "download_count": 2096,
       "created_at": "2026-11-04T17:18:54Z",
       "updated_at": "2026-11-04T17:18:56Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14199742,
       "digest": "sha256:584662abdb72ca01cf01fb9734d99b3bb7183d4cb564dc50b549ee4a46bbf21b",
-      "download_count": 212,
+      "download_count": 229,
       "created_at": "2026-11-04T17:18:59Z",
       "updated_at": "2026-11-04T17:19:00Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_freebsd_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14564595,
       "digest": "sha256:daf719b32ca2778770bb92955e231a07414d754378b9af328aa2642862479804",
-      "download_count": 25102,
+      "download_count": 28663,
       "created_at": "2026-11-04T17:18:54Z",
       "updated_at": "2026-11-04T17:18:55Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13558126,
       "digest": "sha256:d0531b20c7fef4c7d2efb281931e62f0612bb7f0de62d200fa9020fd58d319ca",
-      "download_count": 611,
+      "download_count": 652,
       "created_at": "2026-11-04T17:18:56Z",
       "updated_at": "2026-11-04T17:18:57Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_arm.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 12925619,
       "digest": "sha256:02180b857480302fd934e9ddbd50fe2f73229f99062f88756abc6de9df5e95cf",
-      "download_count": 3980,
+      "download_count": 4375,
       "created_at": "2026-11-04T17:18:57Z",
       "updated_at": "2026-11-04T17:18:58Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 13524495,
       "digest": "sha256:427b4ced2241c621de33405349207f0c5a881586cf014c93b6b698672810741b",
-      "download_count": 381,
+      "download_count": 403,
       "created_at": "2026-11-04T17:18:57Z",
       "updated_at": "2026-11-04T17:18:58Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_arm_hf.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13567428,
       "digest": "sha256:3b3d14550eeb2f7fd3f07fc181c9c1554fea1f6f93d0a484401957263c30bc9d",
-      "download_count": 270,
+      "download_count": 284,
       "created_at": "2026-11-04T17:18:57Z",
       "updated_at": "2026-11-04T17:18:58Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_loong64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13185934,
       "digest": "sha256:8c000fa9f6abe7e1e6e07566eae8480c45b50a39030576a6000962f4ff408f67",
-      "download_count": 275,
+      "download_count": 288,
       "created_at": "2026-11-04T17:18:54Z",
       "updated_at": "2026-11-04T17:18:55Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_mips.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12776712,
       "digest": "sha256:f56bee001293dba5350a9c73fba25a6790be2588da970505a9f70f83168a4e14",
-      "download_count": 227,
+      "download_count": 235,
       "created_at": "2026-11-04T17:18:57Z",
       "updated_at": "2026-11-04T17:18:58Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_mips64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12526601,
       "digest": "sha256:60129e503ea0455ac9b7a6761e84774a0a1fca790ecc0bcddf4426f86b25104d",
-      "download_count": 226,
+      "download_count": 233,
       "created_at": "2026-11-04T17:18:55Z",
       "updated_at": "2026-11-04T17:18:57Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_mips64le.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12962990,
       "digest": "sha256:ef7d44507a65b91545d004507463db0aa5ccaf9e0181ad6bc6535a1924e07263",
-      "download_count": 2030,
+      "download_count": 2350,
       "created_at": "2026-11-04T17:18:59Z",
       "updated_at": "2026-11-04T17:19:00Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_mipsle.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 13328487,
       "digest": "sha256:3c9f6425eb19f85bb063a1ebe9341525f56aa118371a999a993d8c8a27ef59d1",
-      "download_count": 276,
+      "download_count": 283,
       "created_at": "2026-11-04T17:19:00Z",
       "updated_at": "2026-11-04T17:19:01Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_linux_riscv64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 14074606,
       "digest": "sha256:e54410709d1d067415cc992c7b5e3d1bf6ad45366a17f11eaa05b610da8aa6ed",
-      "download_count": 129,
+      "download_count": 137,
       "created_at": "2026-11-04T17:18:58Z",
       "updated_at": "2026-11-04T17:18:59Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_openbsd_amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 14472216,
       "digest": "sha256:5197c1b69564089cdc229fc1260a0e25db1e722b1b7db45fe1542c3c43edf9ae",
-      "download_count": 11381,
+      "download_count": 12796,
       "created_at": "2026-11-04T17:18:59Z",
       "updated_at": "2026-11-04T17:19:00Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_windows_amd64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 12679477,
       "digest": "sha256:e4b83b66c4045971dd9a47cdef16dd02af471aaa6667dd303e63b1a669162927",
-      "download_count": 656,
+      "download_count": 696,
       "created_at": "2026-11-04T17:18:56Z",
       "updated_at": "2026-11-04T17:18:57Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_0.72.0_windows_arm64.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1645,
       "digest": "sha256:61bfe1503be0e31e1ebb432438d784c9594db598db4eed37abdd410acb862283",
-      "download_count": 2321,
+      "download_count": 2673,
       "created_at": "2026-11-04T17:18:54Z",
       "updated_at": "2026-11-04T17:18:55Z",
       "browser_download_url": "https://github.com/fatedier/frp/releases/download/v0.72.0/frp_sha256_checksums.txt"
@@ -690,8 +690,8 @@
   "body": "## Features\n\n* frpc can verify server certificates using system CAs, optionally combined with CAs from `trustedCaFile`.\n* `frpc reload` now refreshes certificate files for unchanged `https2http` and `https2https` proxies without interrupting existing connections. Failed refreshes keep the previous certificate and report the error in proxy status and logs while reload still succeeds.\n* Added `metricsServer` to both frps and frpc, a separate listener for health checks, metrics and optional profiling that does not expose the dashboard or the admin API. It is disabled unless `metricsServer.port` is set, defaults to `127.0.0.1`, and has its own credentials and TLS. Setting the port serves `/metrics` on both: frps exposes runtime and business metrics, so `enablePrometheus` is not needed there, and frpc exposes Go runtime metrics only, without linking an extra metrics library.\n\n  The `/healthz`, `/metrics` and pprof endpoints on `webServer`, `webServer.pprofEnable` and `enablePrometheus` still work but are deprecated: configure `metricsServer` instead. They will continue to work until v0.80.0 is released, and may be removed in v0.80.0 or later.\n\n## Fixes\n\n* Fixed proxy and visitor configuration changes being lost when reloading frpc during reconnection.\n* Updated yamux to fix a 100% CPU busy loop after a session shuts down and a session close that could hang when the underlying connection (for example WebSocket) blocks on a write, which could also delay reconnection.\n* frps now closes the multiplexed session of a replaced or failed control connection immediately, releasing its streams and work connections instead of keeping them until keepalive times out.\n* Fixed a data race when frpc updates log prefixes while other goroutines are logging, which could crash the process.\n* Fixed HTTPS and tcpmux route listeners leaving a pending connection open when the listener is removed during connection handoff; the connection is now closed instead of leaving the client to wait for a read timeout.\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/fatedier/frp/releases/434224741/reactions",
-    "total_count": 8,
-    "+1": 6,
+    "total_count": 9,
+    "+1": 7,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
