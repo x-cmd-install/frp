@@ -128,18 +128,6 @@
     - wenermail@gmail.com
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: frp-bin
-  binname: frpc-bin
-  visiblename: frpc-bin
-  version: 0.68.1
-  origversion: 0.68.1-1
-  status: outdated
-  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Client)
-  maintainers:
-    - firstairbender@aur
-  licenses:
-    - Apache
 - repo: alpine_3_22
   subrepo: community
   srcname: frp
@@ -151,6 +139,15 @@
   summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
   maintainers:
     - wenermail@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: chromebrew
+  srcname: frp
+  visiblename: frp
+  version: 0.72.0
+  origversion: null
+  status: newest
+  summary: A fast reverse proxy
   licenses:
     - Apache-2.0
 - repo: alpine_3_22
@@ -223,9 +220,9 @@
   srcname: frp
   binname: frp
   visiblename: frp
-  version: 0.71.0
-  origversion: 0.71.0-r1
-  status: outdated
+  version: 0.72.0
+  origversion: 0.72.0-r0
+  status: newest
   summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
   maintainers:
     - wenermail@gmail.com
@@ -236,9 +233,9 @@
   srcname: frp
   binname: frp-openrc
   visiblename: frp-openrc
-  version: 0.71.0
-  origversion: 0.71.0-r1
-  status: outdated
+  version: 0.72.0
+  origversion: 0.72.0-r0
+  status: newest
   summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (OpenRC init scripts)
   maintainers:
     - wenermail@gmail.com
@@ -284,6 +281,18 @@
     - Apache-2.0
 - repo: aur
   srcname: frp-bin
+  binname: frpc-bin
+  visiblename: frpc-bin
+  version: 0.68.1
+  origversion: 0.68.1-1
+  status: outdated
+  summary: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (Client)
+  maintainers:
+    - firstairbender@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: frp-bin
   binname: frps-bin
   visiblename: frps-bin
   version: 0.68.1
@@ -294,15 +303,6 @@
     - firstairbender@aur
   licenses:
     - Apache
-- repo: chromebrew
-  srcname: frp
-  visiblename: frp
-  version: 0.72.0
-  origversion: null
-  status: newest
-  summary: A fast reverse proxy
-  licenses:
-    - Apache-2.0
 - repo: freebsd
   srcname: net/frp
   binname: frp
@@ -441,15 +441,6 @@
     - MPL-2.0
   categories:
     - net-vpn
-- repo: scoop
-  subrepo: main
-  binname: frp
-  visiblename: frp
-  version: 0.72.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
 - repo: liguros_develop
   srcname: net-vpn/frp
   visiblename: net-vpn/frp
@@ -632,6 +623,15 @@
     - Apache 2.0
   categories:
     - Unspecified
+- repo: scoop
+  subrepo: main
+  binname: frp
+  visiblename: frp
+  version: 0.72.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
 - repo: termux
   srcname: frp
   binname: frp
